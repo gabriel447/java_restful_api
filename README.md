@@ -8,7 +8,7 @@ Java RESTful API
 - **OpenAPI (Swagger)**: criamos uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhado com a alta produtividade que o Spring Boot oferece;
 - **Railway**: utilizamos pois facilita o deploy e o monitoramento de nossas soluções na nuvem, além de oferecer diversos bancos de dados como serviço e pipelines de CI/CD.
 
-Diagrama de Classes (Domínio da API)
+## Diagrama de Classes (Domínio da API)
 
 ```mermaid
 classDiagram
